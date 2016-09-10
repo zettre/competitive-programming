@@ -1,7 +1,6 @@
-package SPOJ;
 import java.math.*;
 import java.util.*;
-public class bishops
+class bishops
 {
 	public static void main(String [] args)
 	{
